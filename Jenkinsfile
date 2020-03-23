@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'agent-dind'
+      label 'docker-centos7-systemd'
     }
 
   }
