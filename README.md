@@ -1,3 +1,3 @@
-# centos7 with full blown systemd
+# centos7 with systemd
 
-We use this primarily for test-kitchen builds/runs
+We use this primarily for test builds/runs
